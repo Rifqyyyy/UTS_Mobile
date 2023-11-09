@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">List Palyer PUBG M</string>
+    <string name="players_name">Nama Players</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Email</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Rifqy Ramdhani Hakim</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>rifqyramdhanih@std.unissula.ac.id</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/rifqy</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>Luxxy</item>
+        <item>Zuxxy</item>
+        <item>Alice</item>
+        <item>Microboy</item>
+        <item>Liquid</item>
+        <item>uHigh</item>
+        <item>Badru</item>
+        <item>Ryzen</item>
+        <item>RedFace</item>
+        <item>BabyLA</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Name:Made Bagus Prabaswara\nNationality:Indonesia Indonesia\nBorn:May 31, 2003 (age 20)\nStatus:Active\nYears Active (Player):2018 - Present\nTeam:\nPersija EVOS\nAlternate\nIDs:LUXyy\nApprox\nTotal Winnings:$230,125. Total Winnings:$67,610\n\n\n
+            Bagus Prabaswara atau lebih dikenal sebagai BTR Luxxy adalah pro player PUBG Mobile yang diakui kemampuannya secara global. Terutama sebagai sniper yang jadi andalan Bigetron Red Aliens. Simak profil dan biodata BTR Luxxy berikut ini.BTR Luxxy merupakan salah satu ikon dari tim Bigetron Esports, terutama untuk divisi PUBG Mobile. Luxxy merupakan kembaran dari BTR Zuxxy yang juga terkenal sebagai pro player Indonesia.Keduanya dijuluki ‘Duo Tachibana’ atau ‘Tachibana Bersaudara’ ini memiliki skill mematikan dalam game PUBG Mobile. Selain menjadi pro player, ia juga aktif menjadi YouTuber gaming. Pria asal Bali ini merupakan seorang Pro Player PUBG Mobile yang kini tergabung dalam esport Bigetron Red Alien (RA).Luxxy bersama kembarannya Zuxxy menjadi gamer PUBG Mobile yang sudah diaakui dunia berkat menjuarai kompetisi PUBG Mobile tingkat dunia. Ia kini aktif sebagai streamer game di channel YouTube bernama Luxxy Gaming. Hingga kini Youtube channel yang dibuat sejak 2015 lalu itu sudah memiliki 1,42 juta subscriber.</item>
+
+        <item>Name:Made Bagas Pramudita\nNationality:Indonesia Indonesia\nBorn:May 31, 2003 (age 20)\nStatus:Active\Years Active \n(Player):2018 - Present \nTea:Persija EVOSApprox. \nTotal Winnings:$227,337. \nTotal Winnings:$112,070\n\n\n
+            Biodata BTR Zuxxy adalah salah satu roster dari Bigetron Red Aliens yang memiliki role sebagai seorang Scout sekaligus Game Leader. Dirinya merupakan seorang kakak dari kembarannya di BTR yaitu, Luxxy. Mereka merupakan duet mematikan yang dimiliki oleh Bigetron. Zuxxy dan Luxxy kerap diberi julukan ‘Tachibana Bersaudara’, karena mengacu pada karakter kembar yang jago main bola di film Tsubasa. Karena keduanya sama-sama memiliki kecepatan tangan tingkat tinggi hingga menjadi panutan bagi para pemain PUBG Mobile.Dikarenakan kemampuan tersebut, Zuxxy memiliki julukan ‘Alien’. Standar bermain PUBG Mobile yang ia mainkan sangat tinggi dan terbukti di skala internasional dengan menjuarai sekaligus menjadi MVP di PUBG Club Open Fll Split Global Final 2019.Kemampuan yang dimiliki Zuxxy bukan didapat secara instan, butuh bertahun-tahun untuk mencapai performa puncaknya hingga saat ini. Zuxxy sudah hobi bermain game sejak kecil bergenre tembak menembak. Sebelum terjun ke PUBG Mobile, ia lebih dulu bermain game Rules of Survival. Simak biodata serta nama PUBG BTR Zuxxy di bawah ini.</item>
+
+        <item>Name:Maureen Gabriella Stephany\nNationality:Indonesia Indonesia\nBorn:September 22, 2001 (age 22)\nStatus:Active\nTeam:Bigetron Red Villains\nApprox Total Winnings:$78,169\n\n\n
+            Maureen Gabriella alias BTR Alice menarik untuk dibahas. Gadis cantik yang akrab disapa Alice itu kini merupakan brand ambassador (BA) dari tim Bigetron Esports. Tim Bigetron saat ini dikenal sebagai salah satu tim esports terbesar di Indonesia. Bahkan, divisi PUBG Mobile tim tersebut adalah salah satu yang terbaik di dunia. Kiprah Alice bersama tim berlogo Robot Merah tersebut sudah cukup lama. Selain dikenal sebagai BA, Alice juga pernah menjadi pro player aktif di skuad Bigetron Red Aliens tahun 2020 lalu. Bersama Bigetron Red Aliens, Alice pernah membawa pulang piala PUBG Mobile Global Championship (PMGC) tahun 2019. Sayangnya, ada perombakan tim pada tahun 2020 dan dirinya terpaksa harus digantikan oleh BTR Liquid. Sebut saja Juara 1 PUBG Mobile Pro League – Spring Split 2020: Indonesia League, Juara 2 PUBG Mobile Pro League – Spring Split 2020: Southeast Asia, Juara 1 PUBG Mobile World League 2020 – Season 0: East, dan Juara 2 PUBG Mobile Global Championship Season 0: League.Di akhir tahun 2020, ia dijadwalkan akan mengikuti kejuaraan dunia PUBG Mobile Global Championship (PMGC) di Dubai. Namun, ia memilih mundur karena penyakit tulang ekor yang dideritanya.Dalam masa pemulihan, ia diketahui didapuk menjadi Brand Ambassador dari Bigerton Esports.</item>
+
+        <item>Name:Nizar Lugatio Pratama\nNationality:Indonesia Indonesia\nBorn:June 19, 1999 (age 24)\nStatus:Active\nTeam:Persija EVOSAlternate\nIDs:Mcboy, MiCROBOY, MicrovokApprox. Total Winnings:$167,141\n\n\n
+            Nizar Lugatio Pratama atau yang lebih dikenal dengan nama Microboy adalah seorang gamers hits asal Semarang, Jawa Tengah. Microboy lahir pada 19 Juni 1999. Umur Microboy adalah 23 tahun dan menganut agama Islam.Microboy merupakan seorang gamers yang bermain game PUBG Mobile. Kini, Microboy bergabung bersama tim esport EVOS. Microboy memulai kariernya dengan bergabung bersama Bigetron (BTR) ION pada tahun 2019. Setelahnya, Microboy bergabung bersama tim utama BTR. Bersama dengan Ryzen, Luxxy, dan Zuxxy, Microboy berhasil meraih prestasi major bagi Bigetron Esports dan kariernya pun terus menanjak.Pada akhir 2020, Microboy memutuskan untuk hengkang dari BTR dan mengatakan akan rehat menjadi seorang pro player. Namun tak lama setelah ia keluar dari BTR, Microboy justru malah bergabung ke tim EVOS Esports. Di sana ia bergabung dengan beberapa nama lain seperti Redface, Lyzerg, Auro, KF dan coach S1NYO di EVOS Reborn.</item>
+
+        <item>Name:Leander Deusfiel Sorongan\nNationality:Indonesia Indonesia\nBorn:August 8, 2004 (age 19)\nStatus:Active\nYears Active (Player):2019 - PresentAlternate IDs:LuciferApprox\nTotal Winnings:$83,386\n\n\n
+            BTR Liquid memilih untuk menjadi seorang gamer atau lebih dikenal sebagai pro player PUBG (PlayerUnknowns Battlegrounds).Tentu saja kondisi ini sangat berbeda dengan Joice Sorongan yang merupakan salah satu kiper legendaris di Indonesia. Joice sempat membela beberapa tim top macam PSS, PSMS, hingga Persita Tangerang.Sebagai mantan pesepakbola, Joice Sorongan sempat melarang anaknya BTR Liquid untuk menjadi pro player PUBG. Namun, pada akhirnya memperbolehkan sang anak untuk mengambil keputusan sendiri. Di kalangan skena PUBGM, namanya sudah dikenal oleh publik. Ia pernah bermain untuk tim Bigetron ION, Code Zero, dan NFT.Di NFT, ia bahkan sempat bermain di turnamen yang diselenggarakan di Thailand, yakni PUBG Mobile Club Open. Kini, Liquid sedang bermain bersama salah satu tim kuat, Bigetron Red Alien.Sejak kehadiran BTR Liquid di tahun 2020 semakin menambah kekuatan tim, ditambah ada pemain-pemain baru yang ikut bergabung saat itu seperti Byoka dan Sanss.BTR Liquid sendiri tergabung dalam salah satu divisi Bigetron, yaitu Bigetron RA. Sedangkan Bigetron memiliki banyak divisi lain seperti Bigetron RA, Bigetron Ace, Bigetron AROV, Bigetron ION, dan Belletron Epic.BTR Liquid n bergabung dengan Bigetron ION pada bulan Januari 2020. Namun, keanggotaannya hanya sampai bulan Agustus saja. Karena setelah itu, di bulan Oktober, BTR Liquid bergabung bersama Bigetron Red Aliens (RA).</item>
+
+        <item>Name:Muhammad Dhiya Ulhaq Bin Mohd Arasz\nNationality:Malaysia Malaysia\nBorn:March 24, 2004 (age 19)\nStatus:Active\nYears Active (Player):2019 - PresentTeam:Bigetron Red VillainsApprox\nTotal Winnings:$98,076\n\n\n
+           uHigh adalah pemain BTR (Bigetron) RA, yang statusnya dipinjamkan ke Geek Fam Malaysia ini, harus kamu ketahui profil dan biodata selengkapnya.Kemampuan laki-laki yang satu ini dalam bermain PUBG Mobile memang tak perlu diragukan. Namanya di kalangan fans esports khususnya game PUBG Mobile pun sudah tersohor.Meskipun begitu, banyak fans yang masih belum paham dengan statusnya di Bigetron. Banyak juga yang ingin tahu lebih jauh mengenai sosoknya. Apalagi setelah BTR uHIGH memutuskan untuk bergabung dengan Bigetron Esports memperkuat divisi PUBG Mobile Bigetron Red Aliens.BTR uHIGH dikenal sebagai seorang pro player Mobile Legends yang bergabung dengan tim Esport Bigetron Red Aliens atau Bigetron RA. Sebagai informasi, BTR uHIGH bukan pro player asli Indonesia lho. Dia adalah gamer kelahiran negeri Jiran, Malaysia. Salah satu alasannya tak lepas dari skill dan pengalaman sang pemain PUBG Mobile ini yang sudah diakui secara internasional.</item>
+
+        <item>Name:Fikri Imanudin Badru\nNationality:Indonesia\nBorn:February 20, 2000 (age 23)\nTeam:Alter Ego Ares\nApprox. Total Winnings:$46,537\n\n\n
+            AE Badru merupakan salah satu pemain PUBG yang tergabung dalam tim Alter Ego dirinya bergabung belum lama yakni sekitar 2 tahun. Hal tersebut terlihat dari unggahan AE Badru dengan caption Mari kita mulai perjalanan baru, postingan tersebut terlihat pada 12 Juli 2019. Selain aktif menjadi pro player AE Badru juga sering muncul dalam streaming Nimo TV, bahkan streamnya cukup banyak dinantikan.Mari langsung kalian bisa dapatkan informasi lengkap AE Badru melalui ringkasan profil biodata.Pertama ulasan mengenai kepercayaan agama AE Badru adalah Islam.Perihal IG Instagram AE Badru bisa cari dengan nama pengguna @ae.badru.Informasi mengenai umur AE Badru sekarang sudah berjalan 21 tahun.Berikutnya beralih pada info soal nama asli AE Badru yakni Fikri Imanudin Badru.Lalu beralih ulasan tentang tanggal lahir AE Badru pada 20 Februari 2000.Terakhir ihwal asal mana AE Badru yakni Jungkat Kalimantan Barat.</item>
+
+        <item>Name:Muhammad Albi\nNationality:Indonesia Indonesia\nBorn:February 14, 2002 (age 21)\nStatus:Active\nTeam:Bigetron Red Villains\nAlternate IDs:Bungul\nApprox. Total Winnings:$213,643\n\n\n
+            BTR Ryzen, pro player PUBG Mobile yang punya julukan super manggis. Sosok Ryzen pastinya sudah tidak asing di kalangan player PUBG Mobile, terutama yang setia mengikuti skema kompetitifnya.Ryzen dan timnya, Bigetron Red Aliens (BTR RA), sudah menorehkan banyak prestasi di turnamen tingkat nasional maupun internasional. Ryzen bahkan disebut-sebut masuk dalam jajaran pro player PUBG Mobile terbaik di dunia.Itu sebabnya, Ryzen kini memiliki banyak penggemar. Terlihat dari jumlah pengikut setianya di media sosial. Sosok Ryzen pastinya sudah tidak asing di kalangan player PUBG Mobile, terutama yang setia mengikuti skema kompetitif.Ryzen sendiri berperan sebagai rusher atau assaulter dalam tim Bigetron Red Villains. Sempat rehat dari skema kompetitif, kini Ryzen kembali memeriahkan PMPL (PUBG Mobile Pro League) ID 2023.</item>
+
+        <item>Name:Eksa Rachman Jayanto\nNationality:Indonesia Indonesia\nBorn:April 3, 2000 (age 23)\nStatus:Active\nRole(s)\nTeam:Persija EVOS\nAlternate IDs:RedFaceN\nApprox. Total Winnings:$45,122\n\n\n
+            RedFace memulai karirnya dalam kompetisi Gameling Domination 2019 bersama FIGHT FOR FUN. Walaupun hanya finis di posisi 11, ia mampu menarik perhatian Red Rocket Cosmic yang mengontraknya untuk musim 2020.Meski demikian, waktu RedFace di Red Rocket hanya sebentar karena selanjutnya ia pindah ke ION Esports. Memasuki musim 2021, ia dilepas ION dan akhirnya pindah ke EVOS Reborn. RedFace terus membantu tim itu meraih hasil baik sampai sekarang. Dalam setiap tim yang ia singgahi, RedFace mampu menyumbangkan prestasi yang cukup membanggakan. Waktu sesaatnya bersama Red Rocket ia habiskan untuk membantu mereka meraih juara 3 di CIMB NIAGA XTRA XPO Championship dan PMPL ID Spring Split 2020 regular season.Saat berada di ION Esports, prestasi terbaiknya adalah juara 1 PMNC ID 2020. Selain itu, mereka juga mampu menjadi juara 2 PMPL ID Fall Split 2020 regular season.Tren positif RedFace berlanjut di EVOS Reborn saat ia meraih juara 2 di WINNOW Championship Season 2, PMPL ID S3 2021 regular season, dan PMPL SEA S3 2021. Puncaknya, RedFace bersama EVOS Reborn menjuarai babak final dari Dunia Games League 2021.</item>
+
+        <item>Name:Nabila Rahmarizarti Maharani\nNationality:Indonesia Indonesia\nBorn:March 21, 2000 (age 23)\nStatus:Active\nRole(s):EXP Laner\nTeam:Bigetron Ace\nApprox. Total Winnings:$3,466\n\n\n
+            Babyla merupakan nama in-game PUBG Mobile dari Nabila Rahmarizarti Maharani. Dara cantik kelahiran Tangerang 21 Maret 2000 ini telah aktif di dunia Esports dengan memperkuat tim Belletron pada tahun 2019 lalu. Nabila Rahmarizarti Maharani masuk ke skuad Belletron untuk mengisi kekosongan posisi yang ditinggalkan oleh Darkside (Arla Sondakh) dan xzy (Isabella Laymen). Roster dan Leader andalan tim Belletron ini memiliki 1,4 Miliar pengikut di akun Instagram pribadinya.Nabila Babyla, juga memiliki saudari kembar, yakni Meutia Rahmarizarti Maharani yang juga sama-sama Profesional Gamer dan memperkuat ONIC Esports. Selain itu, dari penelusuran, Babyla juga diketahui tengah berpacaran dengan rekannya yang juga Pro Gamer PUBG Mobile yakni Ryzen. Di samping kesibukannya sebagai atlet esports yang tentunya menyita waktu untuk terus berlatih, ia masih menyempatkan diri untuk streaming di channel YouTube-nya.Konten-kontennya yang menghibur membuat ia banyak disukai para penggemar game PUBG Mobile. Tak heran jika subscribers sebanyak ratusan ribu dengan mudahnya bisa ia dapatkan.Masing-masing videonya bisa meraup penonton ribuan hingga puluhan ribu. Hal ini tentunya bisa menjadi sumber pemasukan tambahan untuknya.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/luxxy</item>
+        <item>@drawable/zuxxy</item>
+        <item>@drawable/alice</item>
+        <item>@drawable/microboy</item>
+        <item>@drawable/liquid</item>
+        <item>@drawable/uhigh</item>
+        <item>@drawable/badru1</item>
+        <item>@drawable/ryzen</item>
+        <item>@drawable/redface</item>
+        <item>@drawable/babyla</item>
+    </integer-array>
+</resources>
